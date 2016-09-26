@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     // MARK: - Constants
     
     // MARK: - Variables
-    private var userIsInTheMiddleOfTyping = false
+    fileprivate var userIsInTheMiddleOfTyping = false
     
     // MARK: - Properties
     @IBOutlet weak var display: UILabel!
@@ -29,7 +29,7 @@ class ViewController: UIViewController {
     // MARK: - Event Response
     
     // MARK: - Private Methods
-    @IBAction func touchDigit(sender: UIButton) {
+    @IBAction func touchDigit(_ sender: UIButton) {
         let digit = sender.currentTitle!
         if userIsInTheMiddleOfTyping {
             let textCurrentlyInDisplay = display.text!
@@ -63,9 +63,9 @@ class ViewController: UIViewController {
     }
     
     
-    private var brain: CalculatorBrain = CalculatorBrain()
+    fileprivate var brain: CalculatorBrain = CalculatorBrain()
     
-    @IBAction func performOperation(sender: UIButton) {
+    @IBAction func performOperation(_ sender: UIButton) {
 //        if let matchematicalSymbol = sender.currentTitle {
 //            userIsInTheMiddleOfTyping = false
 //            if matchematicalSymbol == "♊︎" {

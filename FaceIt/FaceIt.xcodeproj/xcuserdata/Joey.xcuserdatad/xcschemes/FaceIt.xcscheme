@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D4DDF2481D61E15900368237"
-               BuildableName = "Calculator.app"
-               BlueprintName = "Calculator"
-               ReferencedContainer = "container:Calculator.xcodeproj">
+               BlueprintIdentifier = "D49A6F301D99163C007E3A94"
+               BuildableName = "FaceIt.app"
+               BlueprintName = "FaceIt"
+               ReferencedContainer = "container:FaceIt.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D4DDF2481D61E15900368237"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "D49A6F301D99163C007E3A94"
+            BuildableName = "FaceIt.app"
+            BlueprintName = "FaceIt"
+            ReferencedContainer = "container:FaceIt.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D4DDF2481D61E15900368237"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "D49A6F301D99163C007E3A94"
+            BuildableName = "FaceIt.app"
+            BlueprintName = "FaceIt"
+            ReferencedContainer = "container:FaceIt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D4DDF2481D61E15900368237"
-            BuildableName = "Calculator.app"
-            BlueprintName = "Calculator"
-            ReferencedContainer = "container:Calculator.xcodeproj">
+            BlueprintIdentifier = "D49A6F301D99163C007E3A94"
+            BuildableName = "FaceIt.app"
+            BlueprintName = "FaceIt"
+            ReferencedContainer = "container:FaceIt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
