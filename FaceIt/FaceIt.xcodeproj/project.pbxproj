@@ -13,6 +13,7 @@
 		D49A6F3C1D99163C007E3A94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D49A6F3B1D99163C007E3A94 /* Assets.xcassets */; };
 		D49A6F3F1D99163C007E3A94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D49A6F3D1D99163C007E3A94 /* LaunchScreen.storyboard */; };
 		D49A6F471D9916F9007E3A94 /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D49A6F461D9916F9007E3A94 /* FaceView.swift */; };
+		D4AA6A181DA74B8C00216415 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AA6A171DA74B8C00216415 /* FacialExpression.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D49A6F3E1D99163C007E3A94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D49A6F401D99163C007E3A94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D49A6F461D9916F9007E3A94 /* FaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
+		D4AA6A171DA74B8C00216415 /* FacialExpression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D49A6F341D99163C007E3A94 /* AppDelegate.swift */,
 				D49A6F361D99163C007E3A94 /* FaceViewController.swift */,
 				D49A6F461D9916F9007E3A94 /* FaceView.swift */,
+				D4AA6A171DA74B8C00216415 /* FacialExpression.swift */,
 				D49A6F381D99163C007E3A94 /* Main.storyboard */,
 				D49A6F3B1D99163C007E3A94 /* Assets.xcassets */,
 				D49A6F3D1D99163C007E3A94 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D49A6F371D99163C007E3A94 /* FaceViewController.swift in Sources */,
+				D4AA6A181DA74B8C00216415 /* FacialExpression.swift in Sources */,
 				D49A6F351D99163C007E3A94 /* AppDelegate.swift in Sources */,
 				D49A6F471D9916F9007E3A94 /* FaceView.swift in Sources */,
 			);
@@ -303,6 +307,7 @@
 				D49A6F451D99163C007E3A94 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
